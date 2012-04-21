@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pessoas>
+    <item>
+        <InformacaoPessoal>
+            <Nome>Diego Fernandes</Nome>
+            <DataNascimento>13/02/2000</DataNascimento>
+            <dataCadastro>14/10/2012</dataCadastro>
+            <Cpf>555.555.555-55</Cpf>
+            <Contatos>
+                <Telefone>(333) 333-3333</Telefone>
+                <celular>(444) 444-4444</celular>
+                <Email>diego@gmail.com</Email>
+                <Morada>
+                    <Cep>66 666-666</Cep>
+                    <Cidade>Belo Horizonte</Cidade>
+                    <Estado>MG</Estado>
+                    <Bairro>Barreiro</Bairro>
+                    <Endereco>AV: Afonso Pena, 2088</Endereco>     
+                </Morada>
+            </Contatos>
+        </InformacaoPessoal>
+ 
+        <Usuarios>
+            <Usuario>Diego</Usuario>
+            <Senha>123456789</Senha>
+        </Usuarios>
+   
+        <Acesso>
+            <Nome>Professor</Nome>
+        </Acesso>
+    </item>
+    
+    <item>
+        <InformacaoPessoal>
+            <Nome>Musashi</Nome>
+            <DataNascimento>13/02/2001</DataNascimento>
+            <dataCadastro>11/11/2011</dataCadastro>
+            <Cpf>111.111.111-11</Cpf>
+            <Contatos>
+                <Telefone>(333) 333-3333</Telefone>
+                <celular>(444) 444-4444</celular>
+                <Email>Leonardo@gmail.com</Email>
+                <Morada>
+                    <Cep>66 666-666</Cep>
+                    <Cidade>Belo Horizonte</Cidade>
+                    <Estado>MG</Estado>
+                    <Bairro>Barreiro</Bairro>
+                    <Endereco>AV: Afonso Pena, 2088</Endereco>     
+                </Morada>
+            </Contatos>
+        </InformacaoPessoal>
+ 
+        <Usuarios>
+            <Usuario>Leonardo</Usuario>
+            <Senha>123456789</Senha>
+        </Usuarios>
+   
+        <Acesso>
+            <Nome>Recursos Humanos</Nome>
+        </Acesso>
+    </item>
+    
+    <item>
+        <InformacaoPessoal>
+            <Nome>Graziela</Nome>
+            <DataNascimento>13/02/2010</DataNascimento>
+            <dataCadastro>11/11/2020</dataCadastro>
+            <Cpf>111.111.111-11</Cpf>
+            <Contatos>
+                <Telefone>(333) 333-3333</Telefone>
+                <celular>(444) 444-4444</celular>
+                <Email>gra@gmail.com</Email>
+                <Morada>
+                    <Cep>66 666-666</Cep>
+                    <Cidade>Cruzeiro do Sul</Cidade>
+                    <Estado>AC</Estado>
+                    <Bairro>Barreiro</Bairro>
+                    <Endereco>AV: Afonso Pena, 2088</Endereco>     
+                </Morada>
+            </Contatos>
+        </InformacaoPessoal>
+ 
+        <Usuarios>
+            <Usuario>Graziela</Usuario>
+            <Senha>123456789</Senha>
+        </Usuarios>
+   
+        <Acesso>
+            <Nome>Sistema de Controle Acadêmico</Nome>
+        </Acesso>
+    </item>
+</Pessoas>
+
